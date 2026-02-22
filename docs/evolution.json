@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-02-18T09:04:10Z",
-  "total_commits_sampled": 122,
-  "max_py_lines": 12521,
+  "generated_at": "2026-02-22T21:43:48Z",
+  "total_commits_sampled": 131,
+  "max_py_lines": 13548,
   "max_bible_bytes": 21138,
-  "max_system_bytes": 26224,
+  "max_system_bytes": 28249,
   "points": [
     {
       "ts": "2026-02-11T21:47:43+00:00",
@@ -1216,14 +1216,104 @@
       "system_bytes": 26224
     },
     {
-      "ts": "2026-02-18T09:01:01+00:00",
-      "hash": "5b2897e3",
-      "msg": "fix(dashboard): count actual tools via get_tools(), fix smoke_tests re.MULTILINE",
-      "version": null,
-      "py_lines": 12521,
-      "module_count": 40,
+      "ts": "2026-02-18T14:06:14+03:00",
+      "hash": "370d3e91",
+      "msg": "v6.0.0: Integrity, Observability, Single-Consumer Routing",
+      "version": "6.0.0",
+      "py_lines": 12888,
+      "module_count": 42,
       "bible_bytes": 21138,
-      "system_bytes": 26224
+      "system_bytes": 28249
+    },
+    {
+      "ts": "2026-02-18T12:19:13+00:00",
+      "hash": "03df46a1",
+      "msg": "v6.1.0: Budget Controls Phase 1 — Soft Round Limits, Task Dedup, Context Compact",
+      "version": "6.1.0",
+      "py_lines": 13345,
+      "module_count": 44,
+      "bible_bytes": 21138,
+      "system_bytes": 28249
+    },
+    {
+      "ts": "2026-02-18T21:32:40+03:00",
+      "hash": "8344285b",
+      "msg": "v6.2.0: Critical Bugfixes + LLM-First Dedup",
+      "version": "6.2.0",
+      "py_lines": 13521,
+      "module_count": 44,
+      "bible_bytes": 21138,
+      "system_bytes": 28249
+    },
+    {
+      "ts": "2026-02-18T20:44:08+00:00",
+      "hash": "85480cf7",
+      "msg": "v6.2.0: Move webapp to main repo /docs, clean dashboard, add charts & fun facts",
+      "version": "6.2.0",
+      "py_lines": 13548,
+      "module_count": 44,
+      "bible_bytes": 21138,
+      "system_bytes": 28249
+    },
+    {
+      "ts": "2026-02-18T21:27:27+00:00",
+      "hash": "b2bffb15",
+      "msg": "docs: update index.html to v6.2.0, fix tool count (50), update data.json stats",
+      "version": "6.2.0",
+      "py_lines": 13548,
+      "module_count": 44,
+      "bible_bytes": 21138,
+      "system_bytes": 28249
+    },
+    {
+      "ts": "2026-02-19T01:52:55+03:00",
+      "hash": "cc4e77f3",
+      "msg": "Update dashboard data (v6.2.0)",
+      "version": "6.2.0",
+      "py_lines": 13222,
+      "module_count": 42,
+      "bible_bytes": 12799,
+      "system_bytes": 17458
+    },
+    {
+      "ts": "2026-02-19T01:54:11+03:00",
+      "hash": "b28a9b42",
+      "msg": "Update dashboard data (v6.2.0)",
+      "version": "6.2.0",
+      "py_lines": 13222,
+      "module_count": 42,
+      "bible_bytes": 12799,
+      "system_bytes": 17458
+    },
+    {
+      "ts": "2026-02-19T02:01:07+03:00",
+      "hash": "1a1c63df",
+      "msg": "Update dashboard data (v6.2.0)",
+      "version": "6.2.0",
+      "py_lines": 13222,
+      "module_count": 42,
+      "bible_bytes": 12799,
+      "system_bytes": 17458
+    },
+    {
+      "ts": "2026-02-19T02:02:41+03:00",
+      "hash": "6e8c4833",
+      "msg": "Update dashboard data (v6.2.0)",
+      "version": "6.2.0",
+      "py_lines": 13222,
+      "module_count": 42,
+      "bible_bytes": 12799,
+      "system_bytes": 17458
+    },
+    {
+      "ts": "2026-02-20T00:22:39+00:00",
+      "hash": "0982f6b8",
+      "msg": "swap razzant to joi lab",
+      "version": null,
+      "py_lines": 12870,
+      "module_count": 41,
+      "bible_bytes": 12799,
+      "system_bytes": 17452
     }
   ]
 }
